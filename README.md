@@ -5,7 +5,7 @@ previously using [XLStat](https://www.xlstat.com/en/). Here is the 3D plot of th
 
 ![](pca.png)
 
-Additionally, KMeans clustering was done on the same data, the results of which look more promising. The plot below shows analysis from KMeans clustering with n_clusters=4.
+Additionally, KMeans clustering was done on the same data. The plot below shows analysis from KMeans clustering with n_clusters=4.
 
 ![](kmeans.png)
 
