@@ -22,6 +22,9 @@ Re-plotting shows that the clusters were of the same varietal, mostly.
 
 ![](correlation.png)
 
-## Reference:
+## References:
 PCA example using the iris dataset:
 http://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html#sphx-glr-auto-examples-decomposition-plot-pca-iris-py
+
+Using Python for Research (HarvardX: PH526x)
+https://courses.edx.org/courses/course-v1:HarvardX+PH526x+3T2016/course/
