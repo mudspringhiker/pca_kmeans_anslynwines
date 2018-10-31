@@ -12,7 +12,7 @@ Explained variance and explained varaiance ratios were the same as the ones prev
 
 The Jupyter Notebook can be found [here](https://github.com/mudspringhiker/pca_kmeans_anslynwines/blob/master/Analysis%20of%20FRI%20Data%20Using%20Python.ipynb).
 
-##Spectral Co-clustering
+## Spectral Co-clustering
 
 The same dataset were analyzed using spectral co-clustering.
 
