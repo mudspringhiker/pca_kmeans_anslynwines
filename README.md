@@ -10,6 +10,8 @@ Explained variance and explained varaiance ratios were the same as the ones prev
 
 ![](lda_plot.png)
 
+The Jupyter Notebook can be found [here](https://github.com/mudspringhiker/pca_kmeans_anslynwines/blob/master/Analysis%20of%20FRI%20Data%20Using%20Python.ipynb).
+
 ## Reference:
 PCA example using the iris dataset:
 http://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html#sphx-glr-auto-examples-decomposition-plot-pca-iris-py
