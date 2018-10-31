@@ -22,6 +22,8 @@ Re-plotting shows that the clusters were of the same varietal, mostly.
 
 ![](correlation.png)
 
+The Jupyter notebook for this is [here](https://github.com/mudspringhiker/pca_kmeans_anslynwines/blob/master/spectralcoclustering_5wines0720.ipynb).
+
 ## References:
 PCA example using the iris dataset:
 http://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html#sphx-glr-auto-examples-decomposition-plot-pca-iris-py
