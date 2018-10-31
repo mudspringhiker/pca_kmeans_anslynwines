@@ -12,6 +12,8 @@ Explained variance and explained varaiance ratios were the same as the ones prev
 
 The Jupyter Notebook can be found [here](https://github.com/mudspringhiker/pca_kmeans_anslynwines/blob/master/Analysis%20of%20FRI%20Data%20Using%20Python.ipynb).
 
+**Spectral Co-clustering**
+
 The same dataset were analyzed using spectral co-clustering.
 
 First, the correlations of the wines were calculated using [pandas correlation function](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.corr.html). The correlations were analyzed for clusters using [spectral co-clustering](](http://scikit-learn.org/stable/auto_examples/bicluster/plot_spectral_coclustering.html) provided by the scikit-learn package. Plotting the correlations of the wines based on clusters results in the following (the right was rearranged to show the clusters).
